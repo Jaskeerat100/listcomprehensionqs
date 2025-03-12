@@ -69,7 +69,7 @@ print(odd_negative_numbers)
 numbers_plus_5 = [num + 5 for num in numbers]
 print(numbers_plus_5)
 
-# BONUS: Prime numbers helper function
+# BONUS
 def is_prime(n):
     if n <= 1:
         return False
